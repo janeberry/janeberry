@@ -2,11 +2,11 @@
 <header>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8D800,30:32CCBC,75:736EFE,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 </header>
-<div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Whisper&size=30&pause=1000&color=d4f2b3&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Jane+Kim;Student+in+CS" alt="Typing SVG" width="100%"/></a>
-  <br>
-  <br>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10&size=40&pause=1000&color=F7F6F5&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Full+Stack+Developer%F0%9F%8C%B1;Nice+to+meet+you!" alt="Typing SVG" /></a>
 </div>
+<br>
+<br>
 
 
 <main>
@@ -27,3 +27,7 @@
 <footer>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%">
 </footer>
+
+
+  
+
