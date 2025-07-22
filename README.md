@@ -48,13 +48,3 @@ Starting my journey in the United States at 17, I'm dedicated to turning my drea
 ### 📧 Contact Me
 - Email: janeuarykim@gmail.com
 - Linkedin: https://www.linkedin.com/in/janeuarykim/
-
----
-
-
-
-<div display: inline-block align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=janeberry&theme=tokyonight" />
-  </a>
-</div>
