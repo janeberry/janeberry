@@ -32,10 +32,10 @@ Starting my journey in the United States at 17, I'm dedicated to turning my drea
         PyQt, OpenCV, Yolo
       </td>
       <td align="center">
-        Ubuntu (Humble, Jazzy), Mac, Python venv
+        Ubuntu, Mac, Python venv
       </td>
       <td align="center">
-        ROS2, SLAM, NAV2
+        ROS2(Humble, Jazzy), SLAM, NAV2
       </td>
     </tr>
   </table>
