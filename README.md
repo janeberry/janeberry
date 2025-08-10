@@ -6,9 +6,12 @@
 
 ### 🌟 About Me
 
-I'm currently a <b>Junior</b> studying <b>Computer Engineering</b> at San Jose State University. <br>
-Inspired by Iron Man from The Avengers, I began my tech journey driven by a passion for innovation and creativity. <br>
-Starting my journey in the United States at 17, I'm dedicated to turning my dreams into reality through continuous learning and determination.
+I'm currently a <b>junior</b> majoring in Computer Engineering at San Jose State University. 
+I’m passionate about creating things that blend creativity and technology whether it’s writing clean code, solving problems, or exploring new tools.
+
+My interest in tech started with a spark of curiosity (and a little inspiration from Iron Man 🦾), and it's grown into a love for building and learning every day.
+
+
 
 ---
 
